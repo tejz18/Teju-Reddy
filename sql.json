@@ -1,0 +1,9 @@
+{
+  "Sql": {
+    "ServerName": "BharathReddy\\MSSQLSERVER2022",
+    "UserName": "sa",
+    "Database": "Teja",
+    "Password": "Tejureddy@18",
+    "Driver": "ODBC Driver 17 for SQL Server"
+  }
+}
